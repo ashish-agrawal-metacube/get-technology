@@ -28,8 +28,7 @@ These are few modules or app in our development toolchain:
 + [**Atom**](https://atom.io/) is a source code editor. A hackable text editor for the 21st Century.
 + [**Github**](http://github.com) for Source Code Management.
 + [**rspec**](http://rspec.info) for testing: 
-+ **simplecov** for Code Coverage. [**help**](https://github.com/gbohra/get-technology/blob/master/learn-simplecov/)
-+ **Continuous Integration** - We use and *recommend* Travis-CI for Continuous Integration (CI). If you or anyone on your team are *new* to Travis-CI, checkout our beginners [guide](https://github.com/gbohra/get-technology/tree/master/travis)
++ [**Travis-CI**](https://travis-ci.org/) - We *recommend* travis-ci for Continuous Integration (CI). Checkout the beginners [guide](https://github.com/gbohra/get-technology/tree/master/travis)
 + [**CodeClimate**](https://codeclimate.com/) for tracking code quality.
 + [**CodeCov**](https://codecov.io/) for *detailed* test/code coverage stats.
 + [**YARD**](http://www.rubydoc.info/gems/yard/file/docs/GettingStarted.md) for code comment guidelines and document generation.
