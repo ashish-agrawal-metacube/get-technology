@@ -1,1 +1,2 @@
-
+- https://en.wikipedia.org/wiki/Code_coverage
+- https://github.com/colszowka/simplecov
