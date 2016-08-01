@@ -12,7 +12,7 @@ Don't violate a guideline without a good reason. A reason is good when you can c
 Feel free to [***contribute***](https://guides.github.com/activities/contributing-to-open-source/#contributing).
 
 ### Dependencies <small>(*technologies we trust*)</small>
-Some general guidelines for technologies we trust
+Some general guidelines for technologies
 
 + [**ruby**](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 + [**Ruby on Rails**](https://www.ruby-lang.org/en/) - Ruby on Rails makes it much easier and more fun. It includes everything you need to build fantastic applications.
