@@ -39,7 +39,7 @@ The intent of this repository is to building maintainable ruby on rails applicat
 Note: This [**repository**](github) is a work in progress.
 
 ### Project Management
-[**Pivotal tracker**](http://www.pivotaltracker.com) - Simple, effective project management for agile teams. It's agile project management and collaboration tool.
+[**Pivotal tracker**](http://www.pivotaltracker.com) - Simple, effective project management. It's agile project management and collaboration tool.
 
 <br />
 <br />
