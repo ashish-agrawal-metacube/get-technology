@@ -3,7 +3,7 @@
 This document describes the proposed technology guidelines in Graduate Engineering Trainee Project.
 
 If you have ***any questions*** please
-[***ask***](https://github.com/dwyl/get-technology-guidelines/issues)
+[***ask***](https://github.com/dwyl/get-technology/issues)
 
 ## Overview
 This document is the guide we use for developing apps in GET project. We encourage you to set up one that works for your own team. Feel free to peruse.
@@ -28,8 +28,8 @@ We *carefully* select and only use *well-maintained* "*pure*" JavaScript modules
 in our development toolchain:
 
 + [**rspec**](http://rspec.info) for testing: 
-+ **simplecov** for Code Coverage. [**help**](https://github.com/gbohra/get-technology-guidelines/blob/master/learn-simplecov/)
-+ **Pre-commit** for ensuring all commits pass strict quality checks before being pushed to GitHub. [**help**](https://github.com/gbohra/get-technology-guidelines/blob/master/learn-pre-commit/)
++ **simplecov** for Code Coverage. [**help**](https://github.com/gbohra/get-technology/blob/master/learn-simplecov/)
++ **Pre-commit** for ensuring all commits pass strict quality checks before being pushed to GitHub. [**help**](https://github.com/gbohra/get-technology/blob/master/learn-pre-commit/)
 + [**CodeClimate**](https://codeclimate.com/) for tracking code quality.
 + [**CodeCov**](https://codecov.io/) for *detailed* test/code coverage stats.
 + [**YARD**](http://www.rubydoc.info/gems/yard/file/docs/GettingStarted.md) for code comment guidelines and document generation.
@@ -38,6 +38,6 @@ in our development toolchain:
 
 We use and *recommend* Travis-CI for Continuous Integration (CI).
 If you or anyone on your team are *new* to Travis-CI,
-checkout our beginners [guide](https://github.com/gbohra/get-technology-guidelines/tree/master/travis)
+checkout our beginners [guide](https://github.com/gbohra/get-technology/tree/master/travis)
 <br />
 <br />
