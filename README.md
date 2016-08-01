@@ -21,11 +21,17 @@ Feel free to [***contribute***](https://guides.github.com/activities/contributin
 + [**MySQL**](http://www.mysql.com/) - the most widely used open-source RDBMS.
 + [**Heroku**](http://www.heroku.com) - Heroku is a cloud Platform-as-a-Service (PaaS) supporting several programming languages. It has Powerful platform, unparalleled ecosystem. It’s one of the best platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand.
 
+### Development
+
+Some general guidelines for development.
+
++ Editor - [**Atom**](https://atom.io/). A hackable text editor for the 21st Century.
++ Source Code Management - [**Github**](http://github.com)
+
 
 ### Development Dependencies
 
-We *carefully* select and only use *well-maintained* "*pure*" JavaScript modules
-in our development toolchain:
+These are few modules or app in our development toolchain:
 
 + [**rspec**](http://rspec.info) for testing: 
 + **simplecov** for Code Coverage. [**help**](https://github.com/gbohra/get-technology/blob/master/learn-simplecov/)
@@ -39,5 +45,14 @@ in our development toolchain:
 We use and *recommend* Travis-CI for Continuous Integration (CI).
 If you or anyone on your team are *new* to Travis-CI,
 checkout our beginners [guide](https://github.com/gbohra/get-technology/tree/master/travis)
+
+### Sample Application
+The intent of this repository is to building maintainable ruby on rails applications. This example is used in GET program.
+
+Note: This repository is a work in progress.
+
+### Project Management
+[**Pivotal tracker**](http://www.pivotaltracker.com) - Simple, effective project management for agile teams. It's agile project management and collaboration tool.
+
 <br />
 <br />
