@@ -49,7 +49,7 @@ checkout our beginners [guide](https://github.com/gbohra/get-technology/tree/mas
 ### Sample Application
 The intent of this repository is to building maintainable ruby on rails applications. This example is used in GET program.
 
-Note: This repository is a work in progress.
+Note: This [**repository**](github) is a work in progress.
 
 ### Project Management
 [**Pivotal tracker**](http://www.pivotaltracker.com) - Simple, effective project management for agile teams. It's agile project management and collaboration tool.
